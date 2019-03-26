@@ -38,9 +38,7 @@ function dec(n) {
   n--
 }
 
-function parseInt(num, base) {
-  
-}
+parseInt('2', 10)
 
 
 parseFloat('80.123999')
