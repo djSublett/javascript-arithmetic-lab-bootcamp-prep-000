@@ -16,7 +16,7 @@ function divideBy3() {
   number /= 3
 }
 
-divideby3()
+divideBy3()
 console.log(number)
 
 add5()
