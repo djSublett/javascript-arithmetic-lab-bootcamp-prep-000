@@ -12,7 +12,7 @@ function multiply() {
   
 }
 
-function divideby3() {
+function divideBy3() {
   number /= 3
 }
 
@@ -28,3 +28,5 @@ number = 10
 add5()
 console.log(number)
 
+divideBy3()
+console.log(number)
