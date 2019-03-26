@@ -32,3 +32,5 @@ console.log(number)
 
 
 parseInt('2', 10)
+
+parseFloat('80.123999')
