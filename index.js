@@ -26,3 +26,5 @@ console.log(number)
 number = 10
 
 add5()
+console.log(number)
+
