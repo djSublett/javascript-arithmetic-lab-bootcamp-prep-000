@@ -38,8 +38,8 @@ function dec(n) {
   n--
 }
 
-function parseInt('2.222', 10) {
-  return
+function parseInt(num, base) {
+  
 }
 
 
