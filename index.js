@@ -1,43 +1,17 @@
 
 function add(a, b) {
-  return a + b
+  return a += b
 }
 
-function subtract() {
-  
+function subtract(a, b) {
+  return a -= b
 } 
 
-function multiply() {
-  
+function multiply(a, b) {
+  return a *= b
 }
 
-function divideBy3() {
-  number /= 3
+function divide(a, b) {
+  return a /= b
 }
 
-divideBy3()
-console.log(number)
-
-add5()
-console.log(number)
-
-number = 10
-
-add5()
-console.log(number)
-
-divideBy3()
-console.log(number)
-
-function inc(n) {
-  n++
-}
-
-function dec(n) {
-  n--
-}
-
-parseInt('2', 10)
-
-
-parseFloat('80.123999')
