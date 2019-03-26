@@ -30,6 +30,14 @@ console.log(number)
 divideBy3()
 console.log(number)
 
+function inc(n) {
+  n++
+}
+
+function dec(n) {
+  n--
+}
+
 
 parseInt('2', 10)
 
