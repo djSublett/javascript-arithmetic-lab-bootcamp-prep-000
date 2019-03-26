@@ -19,3 +19,5 @@ function divideby3() {
 divideby3()
 
 console.log(number)
+
+add5()
