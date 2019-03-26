@@ -15,3 +15,5 @@ function multiply() {
 function divideby3() {
   number /= 3
 }
+
+console.log(number)
