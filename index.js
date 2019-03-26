@@ -16,4 +16,6 @@ function divideby3() {
   number /= 3
 }
 
+divideby3()
+
 console.log(number)
