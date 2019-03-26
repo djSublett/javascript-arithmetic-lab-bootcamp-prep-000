@@ -29,3 +29,6 @@ console.log(number)
 
 divideBy3()
 console.log(number)
+
+
+parseInt('2', 10)
