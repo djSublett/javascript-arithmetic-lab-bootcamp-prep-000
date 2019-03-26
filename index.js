@@ -1,5 +1,7 @@
-function add() {
-  
+var number = 10
+
+function add5() {
+  number += 5
 }
 
 function subtract() {
@@ -10,6 +12,6 @@ function multiply() {
   
 }
 
-function divide() {
-  
+function divideby3() {
+  number /= 3
 }
